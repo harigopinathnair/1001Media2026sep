@@ -1,0 +1,15 @@
+# Environment & OS files
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary uploads (keep .gitkeep if needed)
+# assets/uploads/*
+# !assets/uploads/.gitkeep
